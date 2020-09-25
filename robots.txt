@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cv.leons.dev/sitemap.xml
