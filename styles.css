@@ -26,7 +26,7 @@ kbd,
 q,
 samp,
 small,
-strong,
+
 sub,
 sup,
 var,
@@ -210,7 +210,6 @@ a {
 #contactDetails ul li {
   margin-bottom: 3px;
   color: rgb(0, 0, 0);
-  display: inline;
 }
 
 #contactDetails ul li a,
